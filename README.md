@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**SteponasFergizas/SteponasFergizas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atmintis atnaujinta
+Here's a simple GitHub landing page README template for you to use. It highlights your skills and journey as a data analyst.
 
-Here are some ideas to get you started:
+Welcome to My GitHub Profile! 👋
+Hi, I'm Steponas Fergizas — a data analyst passionate about turning raw data into actionable insights. I recently completed my studies at Vilnius Coding School Academy, where I honed my skills in data analysis and learned to work with various tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Little About Me:
+💻 Graduate: Vilnius Coding School Academy
+📊 Tools I Use:
+MySQL & SQLite for database management
+Python for data manipulation and analysis (Pandas, NumPy, Matplotlib)
+Power BI for visualizing data and creating reports
+🚀 Current Focus: I'm exploring more advanced analytics and working on real-world projects to enhance my skills.
+💼 Looking for Opportunities: I am actively seeking my first role as a data analyst!
+Projects You’ll Find Here:
+SQL queries and database management practice
+Data analysis and visualization projects using Python
+Power BI reports and dashboards
+Feel free to explore my repositories and reach out if you want to connect!
