@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! 👋
 
 
-https://github.com/ghpvc/?username=SteponasFergizas-username&color=green
+(https://komarev.com/ghpvc/?username=SteponasFergizas)
 
 Hi, I'm Steponas Fergizas — a **data analyst** passionate about turning raw data into actionable insights. I recently completed my studies at **Vilnius Coding School Academy**, where I honed my skills in data analysis and learned to work with various tools and technologies.
 
